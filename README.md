@@ -109,6 +109,9 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
 </div>
 
+![Your GIF Description](https://drive.google.com/uc?export=view&id=1EEs1zlJgOWnr6TF_umeGpL0g1uH_wwfL)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Panda-Bro4you&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Panda-Bro4you&theme=default&hide_border=true)<br/>
