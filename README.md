@@ -112,11 +112,7 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 ![Your GIF Description](https://drive.google.com/uc?export=view&id=1EEs1zlJgOWnr6TF_umeGpL0g1uH_wwfL)
 
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E"/>
-</div>![](https://github-readme-stats.vercel.app/api?username=Panda-Bro4you&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Panda-Bro4you&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Bro4you&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Panda-Bro4you&theme=default&no-frame=false&no-bg=false&margin-w=4)
