@@ -2,6 +2,11 @@
 I am a Cyber Security Professional with experience in SOC Tier 3 operations, Network Security, and Governance, Risk & Compliance (GRC). My work focuses on protecting enterprise infrastructure through advanced threat detection, incident response, and security architecture.<br><br>With hands-on experience in security monitoring, incident investigation, vulnerability management, and network defense, I aim to strengthen organizational security posture while aligning with compliance and governance frameworks.<br><br>🔐 Areas of Expertise<br><br>1.  SOC Operations (Tier 3)<br><br>2. Advanced Threat Detection & Incident Response<br><br>3. Network Security & Infrastructure Protection<br><br>4. Security Monitoring & Log Analysis<br><br>5. Governance, Risk & Compliance (GRC)<br><br>6. Security Policies, Risk Assessment & Compliance Frameworks<br><br>🤝 Collaboration<br>I’m open to collaborating with Cyber Security, GRC, and Network Security professionals on projects related to:<br><br>1. Security automation<br><br>2. Threat detection & SOC tools<br><br>3. Risk management frameworks<br><br>4. Network defense strategies<br><br>📫 Let’s Connect<br>If you’re working on security, compliance, or network defense projects, feel free to connect or collaborate.
 
 
+> Initializing Profile...
+> Loading Cyber Defense Modules...
+> Access Granted ✔
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notpokemon_4you) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/osamah-bin-sohail-0a48611b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obsabs56@gmail.com) 
 
