@@ -28,6 +28,8 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Panda-Bro4you&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Panda-Bro4you&theme=radical&no-frame=true&margin-w=15"/>
 </p>
