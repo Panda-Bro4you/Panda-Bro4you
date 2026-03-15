@@ -26,4 +26,4 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://github-profile-trophy.vercel.app/?Panda-Bro4you=ryo-ma&margin-w=15
+![](https://github-profile-trophy.vercel.app/?username=Panda-Bro4you&margin-w=15)
