@@ -2,6 +2,14 @@
   <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" />
 </div>
 <br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <br>
+  <b>Fake Views:</b> <span id="fakeCounter">1000</span>
+</div>
+
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E"/>
 </div>
