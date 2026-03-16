@@ -8,23 +8,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" 
   srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E">
-
   <source media="(prefers-color-scheme: light)" 
   srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E"/>
 </picture>
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=A+B+O+U+T+-+M+E"/>
 </div>
 I am a Cyber Security Professional with experience in SOC Tier 3 operations, Network Security, and Governance, Risk & Compliance (GRC). My work focuses on protecting enterprise infrastructure through advanced threat detection, incident response, and security architecture.<br><br>With hands-on experience in security monitoring, incident investigation, vulnerability management, and network defense, I aim to strengthen organizational security posture while aligning with compliance and governance frameworks.<br><br>🔐 Areas of Expertise<br>1.  SOC Operations (Tier 3)<br>2. Advanced Threat Detection & Incident Response<br>3. Network Security & Infrastructure Protection<br>4. Security Monitoring & Log Analysis<br>5. Governance, Risk & Compliance (GRC)<br>6. Security Policies, Risk Assessment & Compliance Frameworks<br><br>🤝 Collaboration<br>I’m open to collaborating with Cyber Security, GRC, and Network Security professionals on projects related to:<br>1. Security automation<br>2. Threat detection & SOC tools<br>3. Risk management frameworks<br>4. Network defense strategies<br><br>📫 Let’s Connect<br>If you’re working on security, compliance, or network defense projects, feel free to connect or collaborate.
 
 <br><br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L"/>
+<picture>
+  <!-- Dark Mode (white text) -->
+  <source media="(prefers-color-scheme: dark)" 
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L">
+
+  <!-- Light Mode (black text) -->
+  <source media="(prefers-color-scheme: light)" 
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L"/>
+</picture>
 <br><br>
 <a href="https://instagram.com/notpokemon_4you">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
