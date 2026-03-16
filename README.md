@@ -21,11 +21,9 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
   <!-- Dark Mode (white text) -->
   <source media="(prefers-color-scheme: dark)" 
   srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L">
-
   <!-- Light Mode (black text) -->
   <source media="(prefers-color-scheme: light)" 
   srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=S+O+C+I+A+L"/>
 </picture>
 <br><br>
@@ -43,7 +41,15 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 
 <br><br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=450&lines=E+N+V+I+R+O+N+M+E+N+T+S"/>
+<picture>
+  <!-- Dark Theme (white text) -->
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=450&lines=E+N+V+I+R+O+N+M+E+N+T+S">
+  <!-- Light Theme (black text) -->
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=450&lines=E+N+V+I+R+O+N+M+E+N+T+S">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=450&lines=E+N+V+I+R+O+N+M+E+N+T+S"/>
+</picture>
 <br><br>
 
 <!-- Break badges into multiple lines -->
@@ -136,7 +142,15 @@ I am a Cyber Security Professional with experience in SOC Tier 3 operations, Net
 
  <br>
 <div align="center">
+<picture>
+  <!-- Dark Mode (white text) -->
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=FFFFFF&center=true&vCenter=true&width=350&lines=T+R+O+P+H+I+E+S">
+  <!-- Light Mode (black text) -->
+  <source media="(prefers-color-scheme: light)"
+  srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=T+R+O+P+H+I+E+S">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=700&color=000000&center=true&vCenter=true&width=350&lines=T+R+O+P+H+I+E+S"/>
+</picture>
   <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Panda-Bro4you&theme=default&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
